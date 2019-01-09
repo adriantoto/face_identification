@@ -1,0 +1,1 @@
+# The purpose of this folder is to save you trainer/recognizer which will be used in face_detector.py
