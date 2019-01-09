@@ -9,3 +9,4 @@ Steps:
 5. Run the face_dataset.py to make the datasets.
 6. Run the face_trainer.py to train the datasets.
 7. Run the face_detector.py to detect the face with the ID.
+![alt text](https://github.com/adriantoto/face_identification/blob/master/face_identification.JPG)
